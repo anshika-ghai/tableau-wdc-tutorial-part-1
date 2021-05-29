@@ -1,0 +1,13 @@
+{
+  "name": "api-tableau",
+  "version": "1.0.0",
+  "description": "Best package",
+  "main": "index.js",
+  "repository": "https://github.com/anshika-ghai/tableau-wdc-tutorial-part-1.git",
+  "author": "contributor",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  }
+}
